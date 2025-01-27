@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-26T12:52:43 IST" name="Default suite" finished-at="2025-01-26T12:52:43 IST" duration-ms="90">
+    <groups>
+    </groups>
+    <test started-at="2025-01-26T12:52:43 IST" name="Default test" finished-at="2025-01-26T12:52:43 IST" duration-ms="90">
+      <class name="javaHandsOn.Demo">
+        <test-method signature="dummy()[pri:0, instance:javaHandsOn.Demo@a3d8174]" started-at="2025-01-26T12:52:43 IST" name="dummy" finished-at="2025-01-26T12:52:43 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dummy -->
+      </class> <!-- javaHandsOn.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
