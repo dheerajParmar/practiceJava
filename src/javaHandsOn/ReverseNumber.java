@@ -3,8 +3,8 @@ package javaHandsOn;
 public class ReverseNumber {
 
 	public static void main(String[] args) {
-		int n = 13009308;
-		int rem = 0;
+		int n = 013;
+		int rem;
 		int rev = 0;
 		
 		while(n > 0) {
